@@ -15,4 +15,6 @@
 
 [lab08]https://github.com/2303A51202/AIML-230351202/blob/main/Lab08.ipynb
 
+[lab 9]https://github.com/2303A51202/AIML-230351202/blob/main/Lab09_RF_Classification.ipynb
+
 [lab10]https://github.com/2303A51202/AIML-230351202/blob/main/Lab10.ipynb
